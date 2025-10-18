@@ -791,7 +791,7 @@
             "name": "文件播放",
             "type": 3,
             "api": "csp_FileSpider",
-            "ext": "/storage/emulated/0/lz/wj/影视/",
+            "ext": "https://raw.githubusercontent.com/sdxinm/lz/refs/heads/main/wj/影视/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -851,7 +851,7 @@
             "name": "油管文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "/storage/emulated/0/lz/wj/油管/",
+            "ext": "https://raw.githubusercontent.com/sdxinm/lz/refs/heads/main/wj/油管/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -863,7 +863,7 @@
             "name": "影视文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "/storage/emulated/0/lz/wj/影视/",
+            "ext": "https://raw.githubusercontent.com/sdxinm/lz/refs/heads/main/wj/影视/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -875,7 +875,7 @@
             "name": "直播文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "/storage/emulated/0/lz/wj/直播/",
+            "ext": "https://raw.githubusercontent.com/sdxinm/lz/refs/heads/main/wj/直播/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -887,7 +887,7 @@
             "name": "音乐文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "/storage/emulated/0/lz/wj/音乐/",
+            "ext": "https://raw.githubusercontent.com/sdxinm/lz/refs/heads/main/wj/音乐/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -2399,7 +2399,7 @@
             "name": "🈲🔞文件播放2",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=13",
-            "ext": "/storage/emulated/0/lz/wj/其他/",
+            "ext": "https://raw.githubusercontent.com/sdxinm/lz/refs/heads/main/wj/其他/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
